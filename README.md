@@ -1,8 +1,3 @@
-# React + Vite
+# Gemini clone 
+Gemini AI Clone is a personal project aimed at replicating the functionality of an AI-powered virtual assistant similar to Gemini AI. This project serves as a learning exercise and an opportunity to gain hands-on experience with natural language processing (NLP) and artificial intelligence (AI) technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
